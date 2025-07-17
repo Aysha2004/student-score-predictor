@@ -22,3 +22,6 @@ Predicts student scores based on study hours using a simple linear regression mo
 
 ## 📈 Result
 You will see a plot showing study hours vs predicted scores.
+
+![Sample Output](output.png)
+
