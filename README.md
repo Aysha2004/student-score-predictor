@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aysha2004/student-score-predictor/blob/main/Student_Score_Predictor.ipynb)
+
+
 # Student Score Predictor
 
 ## 📌 What it does
